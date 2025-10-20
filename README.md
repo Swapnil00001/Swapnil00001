@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil0001&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil0001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil0001" alt="swapnil0001" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack projects**
 
 - 🌱 I’m currently learning **MERN,DSA**
